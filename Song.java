@@ -1,6 +1,7 @@
 /*
  * Activity 2.5.7
- *
+ * Sanat Gupta and Ryan Kim
+ * 
  * A Song class for the MediaLibrary program
  */
 public class Song

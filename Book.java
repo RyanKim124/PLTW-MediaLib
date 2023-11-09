@@ -1,6 +1,7 @@
 /*
  * Activity 2.5.7
- *
+ * Sanat Gupta, Ryan Kim, and PLTw
+ * 
  * A Book class for the MediaLibrary program
  */
 public class Book

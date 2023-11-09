@@ -1,5 +1,6 @@
 /**
  * Activity 2.5.7
+ * Sanat Gupta, Ryan Kim, and PLTw
  * 
  * A MediaLib class for the MediaLibrary program
  */

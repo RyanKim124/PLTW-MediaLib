@@ -1,4 +1,6 @@
 /**
+ * Activity 2.5.7
+ * Sanat Gupta and Ryan Kim
  * 
  * A Movie class for the MediaLibrary program.
  */
