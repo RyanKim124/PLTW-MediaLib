@@ -23,7 +23,16 @@ public class MediaLibRunner
 
     Movie myMovie1 = new Movie("Interstellar", 3.0);
     Movie myMovie2 = new Movie("Interstellar", 3.0);
-    
+
+    System.out.println(myMovie1);
+
     System.out.println(myMovie1.equals(myMovie2));
+
+    Song mySong1 = new Song("Never Gonna Give You Up");
+    Song mySong2 = new Song("Never Gonna Give You Up");
+
+    System.out.println(mySong1);
+
+    System.out.println(mySong1.equals(mySong2));
   }
 }

@@ -1,6 +1,6 @@
 /**
  * 
- * A Movie class for the MediaLib library.
+ * A Movie class for the MediaLibrary program.
  */
 public class Movie
 {
@@ -44,7 +44,7 @@ public class Movie
     
     public String toString() 
     {
-      String info = "\"" + title + "\", length of " + duration;
+      String info = "\"" + title + "\", length of " + duration + " hours";
       if (rating != 0) 
       { 
         info += ", rating is " + rating;
